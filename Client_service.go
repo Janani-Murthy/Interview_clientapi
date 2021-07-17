@@ -1,4 +1,4 @@
-package Client_service
+package client_service
 
 import (
 	"bytes"
